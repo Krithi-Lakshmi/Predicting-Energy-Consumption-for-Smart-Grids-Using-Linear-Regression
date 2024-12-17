@@ -3,10 +3,13 @@ predicting energy consumption using a linear regression model.
 
 Linear regression predicts energy consumption using a formula: 
 𝑦=𝛽0+𝛽1𝑥1+𝛽2𝑥2+…+𝛽𝑛𝑥𝑛
-y=β0 +β1x1+β2x2+…+βnxn
+
 ​y: Predicted energy consumption.
+
 𝑥𝑖 : Features like temperature, time, or appliance usage.
+
 𝛽𝑖 : Model coefficients representing the weight of each feature.
+
 β0 : Intercept term (baseline consumption).
 
 
